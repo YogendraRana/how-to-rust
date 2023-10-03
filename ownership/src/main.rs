@@ -7,7 +7,6 @@ fn display_name(book: &Book) {
     println!("Name: {}", book.name);
 }
 
-
 fn display_price(book: &Book) {
     println!("Price: {}", book.price);
 }
